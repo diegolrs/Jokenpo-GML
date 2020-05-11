@@ -1,0 +1,5 @@
+-- Game mobile
+Um RPG baseado em Jokenpô
+
+Cada player tem uma classe.
+Os ataques/defesas serão sucesso se o player ganhar no jokenpô
