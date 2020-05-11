@@ -15,10 +15,10 @@ A RPG using Jokenpo in turns
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/diegolrs/RPG-Jokenpo/blob/master/Jokenp%C3%B4.gif">
-  Project Demonstration
 </p>
 
 <p align="center">
+  Project Demonstration
   <br><br><br>
   <a>Created by</a>
   <a href="https://github.com/diegolrs">Diego Reis</a>, 
