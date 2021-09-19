@@ -1,5 +1,5 @@
-# RPG-Jokenpo
-A RPG using Jokenpo in turns
+# Jokenpo
+A micro project to desmonstrate the usage of Game Maker Studio
 
 ## Ideias
  * ### Sistema de upgrade pelo tempo jogado
